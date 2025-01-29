@@ -5,14 +5,21 @@ Why?
 
 Realistic for product sales, inventory management, and customer orders.
 Involves handling structured and semi-structured data (JSON, CSV, SQL).
+
 Data Sources:
 
-Best Buy API (Product sales, pricing).
-Kaggle: Online Retail Dataset
+Best Buy API (Product sales, pricing).https://developer.bestbuy.com/
+
+Kaggle: Online Retail Dataset 
+
 Amazon Product Dataset
+
 Example Use Case:
+
 ✅ Extract sales data from an e-commerce API or CSV.
+
 ✅ Transform: Remove duplicates, clean product names, standardize prices.
+
 ✅ Load into PostgreSQL (orders, customers, products tables).
 1. Understand the Project Requirements
 Before creating the backlog, I would thoroughly understand the project requirements, including the objectives, scope, tools/technologies to be used, and deadlines. In this case, it’s the creation of an ETL pipeline using Python, SQL, Apache Airflow, and targeting E-Commerce & Retail data.
